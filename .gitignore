@@ -1,7 +1,2 @@
 .vscode/
-*.gb
-*.o
-*.lst
-*.sym
-*.asm
-*.ihx
+build/
